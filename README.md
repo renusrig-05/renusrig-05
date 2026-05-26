@@ -1,7 +1,11 @@
-# Hi there, I'm Renusri! 👋 <img src="https://komarev.com/ghvc/?username=renusrig-05&label=PROFILE+VIEWS&color=0e76a8&style=flat" align="right" alt="renusrig-05" />
+# Hi there, I'm Renusri! 👋 
+
+<p align="left">
+  <img src="https://komarev.com/ghvc/?username=renusrig-05&label=PROFILE+VIEWS&color=0e76a8&style=flat" alt="renusrig-05" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/renusrig-05">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%7C+Data+Analyst;AI+Engineering+Enthusiast;React,+Node.js,+SQL+%26+UI%2FUX;Building+Intelligent+Web+Solutions" alt="Typing SVG" />
   </a>
 </p>
