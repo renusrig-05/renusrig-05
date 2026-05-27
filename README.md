@@ -50,11 +50,6 @@ Highly motivated and detail-oriented **Fresher Full-Stack Developer, Data Analys
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renusrig-05&show_icons=true&theme=tokyonight&count_private=true" alt="renusrig-05's GitHub stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renusrig-05&layout=compact&theme=tokyonight" alt="renusrig-05's Top Langs" height="190px" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renusrig-05&theme=tokyonight" alt="renusrig-05's Streak" />
 </p>
 
